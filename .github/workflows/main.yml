@@ -29,6 +29,6 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           user_name: alyssascience
-          # user_email: <username@email.com>
+          user_email: alyssa.kalish@gmail.com
           publish_branch: master
         #   cname: example.com
